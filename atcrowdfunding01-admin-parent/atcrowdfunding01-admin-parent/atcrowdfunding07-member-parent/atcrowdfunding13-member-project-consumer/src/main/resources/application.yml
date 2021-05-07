@@ -1,0 +1,24 @@
+server:
+  port: 5000
+spring:
+  application:
+    name: atguigu-crowd-project
+
+    thymeleaf:
+      prefix: classpath:/templates/
+      suffix: .html
+    redis:
+      host: 127.0.0.1
+    session:
+      store-type: redis
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:1000/eureka/
+aliyun:
+  oss:
+    access-key-id: fdsad
+    access-key-secret: fdsfa
+    bucket-domain: fdsaf
+    bucket-name: fsdafsa
+    end-point: fdsafasfsa

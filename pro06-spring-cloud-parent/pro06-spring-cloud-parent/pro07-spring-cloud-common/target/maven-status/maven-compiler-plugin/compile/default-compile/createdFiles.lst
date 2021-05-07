@@ -1,0 +1,5 @@
+com\atguigu\spring\cloud\api\EmployeeRemoteService.class
+com\atguigu\spring\cloud\factory\MyFallBackFactory$1.class
+com\atguigu\spring\cloud\factory\MyFallBackFactory.class
+com\atguigu\spring\cloud\entity\Employee.class
+com\atguigu\spring\cloud\util\ResultEntity.class

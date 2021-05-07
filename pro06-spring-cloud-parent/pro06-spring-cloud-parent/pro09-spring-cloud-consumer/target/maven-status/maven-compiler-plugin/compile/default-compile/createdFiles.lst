@@ -1,0 +1,3 @@
+com\atguigu\spring\cloud\AtguiguMainType.class
+com\atguigu\spring\cloud\config\AtguiguSpringCloudConfig.class
+com\atguigu\spring\cloud\handler\HumanResourceHandler.class
